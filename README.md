@@ -13,7 +13,10 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 
 模板内容如下：
+灯灯早上好!
+要注意保暖，按时吃饭，今天也要开心(≧∇≦)
 
+今天是
 {{date.DATA}} 
 
 地区：{{region.DATA}} 
@@ -24,7 +27,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 风向：{{wind_dir.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+今天是我们的第{{love_day.DATA}}天 
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
